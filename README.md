@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=103778&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+Vidal;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0593A2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+Vidal;Bem-Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vidalYep&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&theme=radical"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalYep&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1118" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vidalYep&show_icons=true&count_private=true&hide_border=true&title_color=0593A2&theme=radical"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalYep&layout=compact&hide_border=true&title_color=0593A2&text_color=00bfbf&bg_color=0d1118" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vidalYep&theme=gotham&hide_border=true&area=true)
@@ -32,5 +32,5 @@
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=103778&height=120&section=footer"/>
 
