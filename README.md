@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalYep&layout=compact&hide_border=true&title_color=0593A2&text_color=00bfbf&bg_color=0d1118" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=vidalYep&theme=gotham&hide_border=true&area=true)
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/samuel-vidal-805b67234/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin"</a>
